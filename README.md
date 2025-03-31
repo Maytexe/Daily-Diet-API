@@ -1,5 +1,3 @@
-![banner](https://res.cloudinary.com/dloadb2bx/image/upload/v1706241280/dailydiet_sehpbr.png)
-
 # Daily Diet API
 
 ## Technologies
